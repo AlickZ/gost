@@ -4,7 +4,7 @@
  
 wget https://raw.githubusercontent.com/AlickZ/gost/master/gost_ack && chmod 777 gost_ack && ./gost_ack
 
-2020年6月30日重新编写了一下代码！处理代码里面的错误项目
+ 2020年6月30日重新编写了一下代码！处理代码里面的错误项目
 
 #  这个是将编译的gost主题文件放置在国内！方便国内下载使用
 
