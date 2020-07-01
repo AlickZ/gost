@@ -8,10 +8,10 @@ wget https://raw.githubusercontent.com/AlickZ/gost/master/gost_ack && chmod 777 
 
 #  这个是将编译的gost主题文件放置在国内！方便国内下载使用
 
-wget https://github.com/AlickZ/gost/blob/master/gost-1.sh && chmod 777 gost-1.sh && ./gost-1.sh
+wget https://raw.githubusercontent.com/AlickZ/gost/master/gost-v2.0 && chmod 777 gost-v2.0 && ./gost-v2.0
 
 # 这个是将编译的gost主题文件放置在大陆以外！方便国外下载使用
 
-wget https://github.com/AlickZ/gost/blob/master/gost-2.sh && chmod 777 gost-2.sh && ./gost-2.sh
+wget https://raw.githubusercontent.com/AlickZ/gost/master/gost-v2.1  && chmod 777 gost-v2.1 && ./gost-v2.1
 
 本人不会英文！所以脚本有处理不当的地方还请多担待
